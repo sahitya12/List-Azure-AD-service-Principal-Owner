@@ -1,0 +1,1 @@
+# List-Azure-AD-service-Principal-Owner
